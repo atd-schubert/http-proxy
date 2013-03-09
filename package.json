@@ -1,0 +1,9 @@
+{
+  "name": "http-proxy",
+  "description": "A modular Proxyserver to analyze and change network traffic on the fly.",
+  "version": "0.0.1",
+  "author": "Arne Schubert <atd.schubert@gmail.com>",
+  "engines": { "node": ">= 0.8.0" },
+  "dependencies": {
+  }
+}
